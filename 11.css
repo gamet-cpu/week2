@@ -1,0 +1,20 @@
+p{
+    color: blue;
+    size: 10px;
+}
+#paragraph{
+    color: red;
+    size: 100px;
+}
+.World{
+    background-color: yellow;
+    font-weight: bold;
+}
+#first{
+    color:brown;
+    font-size: large;
+}
+#second{
+    color: red;
+    font-size: small;
+}
