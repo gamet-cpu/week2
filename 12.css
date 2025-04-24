@@ -1,0 +1,27 @@
+h2{
+    color: red;
+
+}
+#hid{
+    text-align: center;
+}
+p{
+    font-size: 50px;
+}
+#pid{
+    font-weight: 400;
+}
+input{
+    background-color: aqua;
+    background-image: "rik.jpg";
+}
+div{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;    
+}
+#ARP{
+    width: 200;
+    height: 200;
+    overflow: hidden;
+}
